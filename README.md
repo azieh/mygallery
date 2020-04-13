@@ -1,4 +1,4 @@
-# surpriseme
+# mygallery
 
 ## Project setup
 ```
